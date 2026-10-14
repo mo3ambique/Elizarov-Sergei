@@ -7,6 +7,15 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A76282B3-4276-4945-9AF2-3AC68111A828}|bitfield\\bitfield.vcxproj|D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\src\\tbitfield.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650C93E-F0A7-4235-9F5F-0DCE78609BFB}|test_bitfield\\test_bitfield.vcxproj|D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\test\\test_tset.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650C93E-F0A7-4235-9F5F-0DCE78609BFB}|test_bitfield\\test_bitfield.vcxproj|D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\test\\test_tbitfield.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C650C93E-F0A7-4235-9F5F-0DCE78609BFB}|test_bitfield\\test_bitfield.vcxproj|D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,8 +25,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_tset.cpp",
+              "DocumentMoniker": "D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\test\\test_tset.cpp",
+              "RelativeDocumentMoniker": "..\\..\\test\\test_tset.cpp",
+              "ToolTip": "D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\test\\test_tset.cpp",
+              "RelativeToolTip": "..\\..\\test\\test_tset.cpp",
+              "ViewState": "AgIAADIBAAAAAAAAAAAQwE4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-13T19:19:50.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_tbitfield.cpp",
+              "DocumentMoniker": "D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\test\\test_tbitfield.cpp",
+              "RelativeDocumentMoniker": "..\\..\\test\\test_tbitfield.cpp",
+              "ToolTip": "D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\test\\test_tbitfield.cpp",
+              "RelativeToolTip": "..\\..\\test\\test_tbitfield.cpp",
+              "ViewState": "AgIAADUBAAAAAAAAAAAAAFABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-13T19:19:49.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test_main.cpp",
+              "DocumentMoniker": "D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\test\\test_main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\test\\test_main.cpp",
+              "ToolTip": "D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\test\\test_main.cpp",
+              "RelativeToolTip": "..\\..\\test\\test_main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-13T19:19:49.001Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -26,7 +72,7 @@
               "RelativeDocumentMoniker": "..\\..\\src\\tset.cpp",
               "ToolTip": "D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\src\\tset.cpp",
               "RelativeToolTip": "..\\..\\src\\tset.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-10T18:33:28.571Z",
               "EditorCaption": ""
@@ -39,7 +85,7 @@
               "RelativeDocumentMoniker": "..\\..\\src\\tbitfield.cpp",
               "ToolTip": "D:\\ptu\\prog\\lw1\\Elizarov-Sergei\\src\\tbitfield.cpp",
               "RelativeToolTip": "..\\..\\src\\tbitfield.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-10T18:33:27.358Z",
               "EditorCaption": ""

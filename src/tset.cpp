@@ -6,7 +6,7 @@
 // Множество - реализация через битовые поля
 
 #include "tset.h"
-#include "stdexcept"
+#include <stdexcept>
 
 TSet::TSet(int mp) : BitField(mp)
 {
@@ -117,6 +117,7 @@ TSet TSet::operator*(const TSet& s) // пересечение
 {
     TSet result(*this);
     result.BitField = BitField & s.BitField;
+    result.MaxPower = result.BitField.GetLength();
     return result;
 }
 
