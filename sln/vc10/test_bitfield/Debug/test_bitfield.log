@@ -170,5 +170,4 @@ D:\ptu\prog\lw1\Elizarov-Sergei\gtest\gtest.h(10020,30): warning C4996: 'std::tr
               T=std::tuple<>
           ]
   
-test_main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
   test_bitfield.vcxproj -> D:\ptu\prog\lw1\Elizarov-Sergei\sln\vc10\Debug\test_bitfield.exe
